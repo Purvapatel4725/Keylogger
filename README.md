@@ -68,7 +68,7 @@ The advanced keylogger script is more feature-rich. It captures keystrokes and p
 
 ## Ethical and Educational Use Warning
 
-**WARNING:** This repository is intended for educational purposes only. Unauthorized use of these keylogging scripts can be illegal and unethical. Use these scripts responsibly and only on systems for which you have explicit permission. The author, `cxfsfd`, is not responsible for any misuse or illegal activities performed with these scripts.
+**WARNING:** This repository is intended for educational purposes only. Unauthorized use of these keylogging scripts can be illegal and unethical. Use these scripts responsibly and only on systems for which you have explicit permission. The author, `Purva Patel`, is not responsible for any misuse or illegal activities performed with these scripts.
 
 ## Author
 
